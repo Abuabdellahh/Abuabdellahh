@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React.js, Redux Toolkit, RTK Query, Next.js, Tailwind CSS, Material Tailwind
-- **Backend:** Node.js, Express.js, GraphQL, MySQL, MongoDB, PostgreSQL
-- **Other:** TypeScript, Git, GitHub, Vite, VS Code, WordPress
+- **Backend:** Node.js, Express.js, GraphQL, MySQL, MongoDB
+- **Other:** TypeScript, Git, GitHub, Vite, VS Code, Shopify 
 - **Languages:** Amharic, English, Arabic
 
 ## 📚 Education
