@@ -140,15 +140,25 @@ Also certified in Artificial Intelligence Fundamentals (Udacity), React Front-En
 
 ---
 
-<!-- "Error Fetching Resource" = GitHub's camo proxy timed out on the shared public instance. -->
-<!-- cache_seconds makes the service reply from its own cache (faster, so camo doesn't time out). -->
-<!-- The &v= param is a cache-buster: bump it to v=2, v=3... to force camo to re-fetch. -->
-<!-- PERMANENT FIX: self-host and swap the domain below for your own Vercel URL. -->
+<h3 align="center">GitHub Activity</h3>
+
+<!-- BADGES: shields.io — one of the most reliable badge CDNs; live data, rarely times out on camo. -->
+<!-- GRAPH: ghchart.rshah.org — a third-party renderer of your real contribution data. More reliable -->
+<!--        than the stats-card service, but still third-party. If it ever breaks, just delete that -->
+<!--        one line — GitHub already shows your real contribution graph natively below this README. -->
+<!-- Deliberately NOT using github-readme-stats.vercel.app: its live API calls are slow on the shared -->
+<!-- public instance, so GitHub's image proxy times out -> "Error Fetching Resource". -->
+<!-- Want the classic stat cards back AND reliable? Self-host in ~10 min: -->
 <!-- github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
 
 <p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400&v=1" />
-  <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400&v=1" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Abuabdellahh?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=0A66C2" />
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbuabdellahh&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A&color=0A66C2" />
+  <img alt="Location" src="https://img.shields.io/badge/Based%20in-Addis%20Ababa-0A66C2?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+
+<p align="center">
+  <img alt="Eibrahim's contribution graph" src="https://ghchart.rshah.org/0A66C2/Abuabdellahh" width="90%" />
 </p>
 
 ---
