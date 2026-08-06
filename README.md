@@ -140,13 +140,20 @@ Also certified in Artificial Intelligence Fundamentals (Udacity), React Front-En
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
+<!-- These cards adapt to the viewer's GitHub light/dark setting via <picture>. -->
+<!-- RELIABILITY: the public instances get rate-limited and show "Maximum retries exceeded". -->
+<!-- If that happens often, deploy your own: github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+<!-- then swap github-readme-stats.vercel.app for your own domain in both URLs below. -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abuabdellahh&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&hide_border=true" alt="Eibrahim's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+  </picture>
 </p>
 
 ---
