@@ -140,14 +140,15 @@ Also certified in Artificial Intelligence Fundamentals (Udacity), React Front-En
 
 ---
 
-<!-- RELIABILITY NOTE: these come from a shared public service that gets rate-limited. -->
-<!-- If the cards show "Maximum retries exceeded", deploy your own instance (10 min) and -->
-<!-- replace github-readme-stats.vercel.app below with your own Vercel domain: -->
+<!-- "Error Fetching Resource" = GitHub's camo proxy timed out on the shared public instance. -->
+<!-- cache_seconds makes the service reply from its own cache (faster, so camo doesn't time out). -->
+<!-- The &v= param is a cache-buster: bump it to v=2, v=3... to force camo to re-fetch. -->
+<!-- PERMANENT FIX: self-host and swap the domain below for your own Vercel URL. -->
 <!-- github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
 
 <p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400&v=1" />
+  <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400&v=1" />
 </p>
 
 ---
