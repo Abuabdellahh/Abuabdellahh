@@ -1,239 +1,160 @@
-<h1 align="center">Hi, I'm Eibrahim Belayneh Adem 👋</h1>
+<h1 align="center">Eibrahim Belayneh Adem</h1>
 
-<h3 align="center">Geospatial AI Engineer & Data Scientist</h3>
 <p align="center">
-  GIS · PostGIS · Remote Sensing · Python ML/AI &nbsp;|&nbsp; Full-Stack & Mobile: React · Next.js · Flutter · React Native · NestJS · Laravel · Spring Boot · Go &nbsp;|&nbsp; → Cloud Security & DevSecOps
+  <b>Geospatial AI Engineer & Data Scientist</b> — with a full-stack engineering foundation
 </p>
 
 <p align="center">
-  I build production-ready web, mobile, and geospatial systems, and apply data science and AI
-  to turn raw spatial and business data into decisions — engineered with security and scalability in mind.
+  I take problems from raw satellite and spatial data, through modeling,<br/>
+  all the way to a shipped, secure production application.
 </p>
 
 <p align="center">
-  <a href="https://eibrahim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-eibrahim.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eibrahimbelayneh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Abuabdellah1099@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abuabdellahh&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+  <a href="https://eibrahim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-eibrahim.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/eibrahimbelayneh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Abuabdellah1099@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abuabdellahh&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## What I do
 
-I'm a **Geospatial AI Engineer & Data Scientist** with a full-stack and mobile engineering foundation — a combination that lets me take a problem from raw satellite or spatial data, through modeling, all the way to a shipped, secure production application. My background bridges four disciplines:
+Most engineers work on one side of this line. I work on both:
 
-- 🌍 **GIS & remote sensing** — cartography, spatial modeling & analysis, satellite image processing, geospatial data management, land use & resource management, GPS field surveying
-- 📊 **Data science & AI/ML** — Python, predictive modeling, NLP, feature engineering, financial & fraud analytics
-- 🖥️ **Full-stack & mobile development** — React, Next.js, Flutter, React Native, NestJS, Laravel, Spring Boot, Go
-- 🔐 **Cloud, security & DevOps** — AWS, Docker, Kubernetes, CI/CD, DevSecOps practices
+**Spatial & applied ML** — satellite image processing, spatial modeling, PostGIS, predictive modeling, NLP, fraud and credit-risk analytics.
 
-I care about clean architecture, readable code, and shipping things that actually work in production — not just in a demo.
+**Production engineering** — React/Next.js and Flutter on the front, NestJS/Laravel/Spring Boot on the back, deployed on AWS with Docker, CI/CD, and DevSecOps practice baked in.
 
-- 🔭 Currently building client applications at **Fusion IT Consultancy PLC**
-- 🌱 Deepening my skills in **cloud security, DevSecOps, and AI-powered applications**
-- 🎓 Currently in a **Full-Stack Software Development, QA & DevOps program at IBT College** (Jul 2026 – Dec 2026)
-- 🤝 Open to full-stack, mobile, data science, GIS, or DevSecOps collaborations
-- 📫 Reach me at **Abuabdellah1099@gmail.com**
+The combination means a spatial model I build doesn't stop at a notebook. It ends up behind an API, in an app, in someone's hands.
+
+**Right now:** building client applications at **Fusion IT Consultancy PLC** · going deeper on **cloud security & DevSecOps** · open to full-stack, geospatial, and data science work.
 
 ---
 
-### 🛠️ Tech Stack
+## Selected work
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-</p>
+<!-- ACTION REQUIRED: replace each href below with the real repo or live demo URL. -->
+<!-- A project without a working link reads as a project that doesn't exist. -->
 
-**Mobile**
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-</p>
+### 🏠 [NileNet Properties Platform](https://eibrahim.vercel.app)
+`Next.js` `React` `Node.js` `PostgreSQL` `Tailwind`
 
-**Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square" />
-</p>
+Real estate marketplace connecting Ethiopian families and diaspora investors with verified property listings. Search, filtering, and listing management built for a market where most inventory still lives in Telegram groups and phone calls.
+<!-- Add one hard number: listings handled, users, load time, or launch status. -->
 
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
+### 🏥 [Kidus Petros Hospital Platform](https://eibrahim.vercel.app)
+`Next.js` `Node.js/Express` `PostgreSQL` `Tailwind`
 
-**Data Science & AI**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+Patient-engagement platform with department directories, service information, and a secured admin backend for content and inquiry management. Built responsive-first for a userbase that is overwhelmingly mobile.
 
-**GIS & Remote Sensing**
-<p>
-<img src="https://img.shields.io/badge/ArcGIS_Pro-2C7BE5?style=flat-square" />
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/ERDAS_IMAGINE-2C7BE5?style=flat-square" />
-<img src="https://img.shields.io/badge/Remote_Sensing-228B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Cartography-228B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Spatial_Analysis-228B22?style=flat-square" />
-<img src="https://img.shields.io/badge/GPS_%26_Field_Surveying-228B22?style=flat-square" />
-</p>
+### 📈 [Fraud Detection & Credit Risk Scoring](https://eibrahim.vercel.app)
+`Python` `Scikit-learn` `Pandas` `FastAPI`
 
-**Cloud, Security & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/DevSecOps-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+End-to-end ML pipeline on real transaction and lending data — feature engineering, class-imbalance handling, model comparison, and evaluation tuned for the precision/recall tradeoff that actually matters in fraud, where a false negative and a false positive cost very different amounts.
+<!-- Add your best metric here: ROC-AUC, recall at fixed precision, etc. -->
 
----
+### 🔮 [Time-Series Forecasting for Portfolio Optimization](https://eibrahim.vercel.app)
+`Python` `ARIMA` `Prophet` `Neural Networks`
 
-### 💼 Professional Experience
+Forecasting models benchmarked against each other, then fed into portfolio allocation decisions — including the part most tutorials skip: what the forecast error means for the allocation.
 
-**Full-Stack Developer — Fusion IT Consultancy PLC** · *Full-time*
-*Aug 2025 – Present · Addis Ababa, Ethiopia (Remote)*
-- Develop and maintain web applications using React.js, Next.js, Node.js, and related technologies
-- Build scalable software solutions for businesses across various industries
-- Collaborate with designers, product teams, and clients to deliver high-quality digital products
-- Integrate cloud services, APIs, and modern business solutions
-- Participate in software deployment, testing, and ongoing system support
+<details>
+<summary><b>More projects</b></summary>
 
-**Full-Stack Developer — SkyHub Technology Solutions** · *Full-time*
-*Feb 2024 – Present · Ethiopia (Hybrid)*
-- Design and develop responsive, user-friendly web applications
-- Build modern frontend interfaces using React.js, Next.js, and Tailwind CSS
-- Develop scalable backend APIs and services with Node.js and Express.js
-- Collaborate with cross-functional teams to deliver high-quality software solutions
-- Manage code and version control using Git and GitHub
+<br/>
 
-**Computer Teacher — Alqalam School** · *Full-time*
-*Dec 2020 – Jan 2023 · Addis Ababa, Ethiopia (On-site)*
-- Installed and maintained school computers and lab infrastructure
-- Trained teachers on educational software for lesson planning
-- Instructed students in computer technology fundamentals
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
+| Project | Stack | What it is |
 |---|---|---|
-| 🏠 **[NileNet Properties Platform](https://eibrahim.vercel.app)** | React.js · Next.js · Node.js | Real estate marketplace connecting Ethiopian families and investors with property listings |
-| 🏥 **[Kidus Petros Hospital Website](https://eibrahim.vercel.app)** | React.js · Next.js · Tailwind CSS · Node.js/Express · MySQL/PostgreSQL | Responsive patient-engagement platform with secure backend data management |
-| 🕌 **ASalahuddin Masjid — ሰላሀዲን መስጂድ** | Laravel · Alpine.js | Community/mosque platform with system deployment and API testing |
-| 🍗 **Mr Chicken Restaurant Menu** | React.js · Node.js · Git | Digital restaurant menu and ordering experience |
-| 🚗 **Abe Garage** | React.js · MySQL | Auto-service management platform |
-| 📦 **Amazon Clone** | React.js · Node.js · Express.js · Postman | E-commerce clone replicating core Amazon shopping flows and REST API integration |
-| 🎬 **Netflix Clone** | React.js | Streaming-platform UI clone |
-| 📈 **Fraud & Credit Risk Detection** | Python · Scikit-learn | ML models for fraud detection and credit risk scoring on real transaction and lending data |
-| 🔮 **Time-Series Forecasting for Portfolio Optimization** | Python · ARIMA · Prophet · Neural Networks | Forecasting models supporting portfolio optimization decisions |
-| 📰 **News Sentiment & Complaint Classification** | Python · NLP · Pandas | NLP pipelines for financial news sentiment and customer complaint classification |
+| 🕌 **ASalahuddin Masjid — ሰላሀዲን መስጂድ** | Laravel · Alpine.js | Community platform for a mosque — announcements, prayer times, and member services. Deployed and API-tested end to end. |
+| 📰 **News Sentiment & Complaint Classification** | Python · NLP · Pandas | NLP pipelines for financial news sentiment scoring and automated customer-complaint routing. |
+| 🍗 **Mr Chicken Restaurant Menu** | React · Node.js | Digital menu and ordering flow for a restaurant. |
+| 🚗 **Abe Garage** | React · MySQL | Auto-service management — work orders, customers, vehicle history. |
 
-> Replace placeholder links with each project's live demo or repo URL.
+</details>
 
 ---
 
-### 🎓 Education
+## Stack
 
-| Institution | Program | Dates |
+**Languages** · TypeScript · JavaScript · Python · Java · Kotlin · Go · PHP · SQL
+
+**Frontend** · React · Next.js · Tailwind CSS · Redux Toolkit · Material UI
+
+**Mobile** · Flutter · React Native · Kotlin / Android
+
+**Backend** · NestJS · Node/Express · FastAPI · Laravel · Spring Boot · GraphQL · REST · JWT
+
+**Data & ML** · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · ARIMA / Prophet · NLP
+
+**Geospatial** · ArcGIS Pro · QGIS · PostGIS · ERDAS IMAGINE · remote sensing · spatial analysis · GPS field survey
+
+**Databases** · PostgreSQL · PostGIS · MySQL · MongoDB · SQL Server · Neo4j
+
+**Cloud & DevOps** · AWS · Docker · Kubernetes · GitHub Actions · CI/CD · DevSecOps · Git · Postman
+
+---
+
+## Experience
+
+**Full-Stack Developer** — Fusion IT Consultancy PLC · *Aug 2025 – Present · Addis Ababa (Remote)*
+Build and maintain client web applications in React, Next.js, and Node.js. Own features from requirements through deployment, testing, and support, integrating cloud services and third-party APIs along the way.
+
+**Full-Stack Developer** — SkyHub Technology Solutions · *Feb 2024 – Present · Ethiopia (Hybrid)*
+<!-- NOTE: this overlaps with Fusion IT above. Two concurrent full-time roles raises questions. -->
+<!-- Either close this out with an end date, or relabel it (part-time / contract / freelance). -->
+Designed and shipped responsive web applications — React/Next.js interfaces backed by Node and Express APIs — working across a cross-functional team.
+
+**Computer Teacher** — Alqalam School · *Dec 2020 – Jan 2023 · Addis Ababa*
+Ran the school's computer lab end to end: hardware setup and maintenance, teacher training on educational software, and classroom instruction in computing fundamentals.
+
+---
+
+## Education & Certifications
+
+| | Program | |
 |---|---|---|
-| **IBT College** | Professional Training — Full-Stack Software Development, QA & Testing, DevOps & CI/CD, Cloud Fundamentals, Agile | Jul 2026 – Dec 2026 |
-| **10 Academy** (Kifiya × Mastercard) | AI Mastery Training Program — Data Science, AI, Data Engineering, ML, GenAI, MLOps | 2025 |
-| **Evangadi Academy** | Full-Stack Web Development (MERN Stack) | Jan 2024 |
-| **Mizan Institute of Technology (MiT Ethiopia)** | Full-Stack Software Engineer (MERN Stack) | 2024 – 2025 |
+| **IBT College** | Full-Stack Development, QA & Testing, DevOps & CI/CD, Cloud, Agile | Jul – Dec 2026 |
+| **10 Academy** *(Kifiya × Mastercard)* | AI Mastery — Data Science, ML, Data Engineering, GenAI, MLOps | 2025 |
+| **Mizan Institute of Technology** | Full-Stack Software Engineering (MERN) | 2024 – 2025 |
+| **Evangadi Academy** | Full-Stack Web Development (MERN) | 2024 |
 | **Wollega University** | B.Sc. Geographic Information Systems & Remote Sensing | 2019 |
 
----
-
-### 🏆 Licenses & Certifications
-
-- 🏅 Full-Stack Developer — *Mizan Institute of Technology* (Feb 2025)
-- 🏅 AI Mastery Training Program — *10 Academy* (Sep 2025)
-- 🏅 Certificate of Participation — *Cursor AI Hackathon Ethiopia* (Jul 2026)
-- 🏅 Upwork React Front-End Skill Certification (2024)
-- 🏅 Artificial Intelligence Fundamentals — *Udacity* (2025)
-- 🏅 Data Science Fundamentals — *EthioCoders* (2024)
-- 🏅 Android Developer Fundamentals — Android, Kotlin, Android Studio
+Also certified in Artificial Intelligence Fundamentals (Udacity), React Front-End (Upwork), Data Science Fundamentals (EthioCoders), and Android Developer Fundamentals. Participant, Cursor AI Hackathon Ethiopia 2026.
 
 ---
 
-### 💬 Recommendations
+## What people say
 
-> "An exceptional software engineer with a unique blend of technical expertise and professional excellence. He has massive talent and huge potential to grow."
-> — **Birhan Nega**, Full Stack Engineer @ Exelia Technologies (managed Eibrahim at SkyHub)
+> "An exceptional software engineer with a unique blend of technical expertise and professional excellence."
+> — **Birhan Nega**, Full Stack Engineer @ Exelia Technologies · *managed Eibrahim at SkyHub*
 
-> "Strong technical expertise and a remarkable ability to solve complex problems... his dedication to quality, combined with his collaborative mindset and strong communication skills, makes him an invaluable asset to any team."
+> "Strong technical expertise and a remarkable ability to solve complex problems... his dedication to quality, combined with his collaborative mindset, makes him an invaluable asset to any team."
 > — **Abubeker Ahmed**, Cybersecurity Specialist & Penetration Tester
 
 ---
 
-### 🌍 Languages
+## Languages
 
-| Language | Proficiency |
-|---|---|
-| 🇪🇹 Amharic | Native |
-| 🇬🇧 English | Professional |
-| 🇸🇦 Arabic | Professional |
+🇪🇹 Amharic *(native)* · 🇬🇧 English *(professional)* · 🇸🇦 Arabic *(professional)*
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abuabdellahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdellahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuabdellahh&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=abuabdellahh&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-
 <p align="center">
-  <a href="https://eibrahim.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/eibrahimbelayneh">💼 LinkedIn</a> •
-  <a href="mailto:Abuabdellah1099@gmail.com">📧 Email</a>
+  <a href="https://eibrahim.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/eibrahimbelayneh">LinkedIn</a> ·
+  <a href="mailto:Abuabdellah1099@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>Open to full-time, freelance, and consulting opportunities in full-stack, mobile, data science, GIS, and DevSecOps.</i></p>
+<p align="center"><i>Open to full-time, freelance, and consulting work — full-stack, geospatial, data science, and DevSecOps.</i></p>
