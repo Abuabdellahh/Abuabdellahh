@@ -25,52 +25,50 @@
 
 ## What I do
 
-I build web applications end to end — interface, API, database, deployment — and I do it for clients whose users are real and mostly on mobile. Three of the things I've built are live and public right now, linked below.
+**💻 Full-stack engineering** — Next.js and React front ends, Node / Express, NestJS and Laravel APIs, PostgreSQL and MySQL. Requirements through deployment, including the support afterwards.
 
-Alongside that: a B.Sc. in GIS and remote sensing, and applied ML work in time-series forecasting and financial analytics.
+**🤖 Data & machine learning** — time-series forecasting, change-point detection, financial analytics, NLP. Feature engineering through evaluation and deployment.
 
-- **Web** — Next.js / React front ends, Node / Express and Laravel APIs, PostgreSQL and MySQL
-- **Data & ML** — time-series forecasting, change-point analysis, financial modeling in Python
-- **Spatial** — PostGIS, ArcGIS Pro, QGIS, remote sensing, GPS field survey
-- **Delivery** — AWS, Docker, GitHub Actions, CI/CD
+**🛰️ Geospatial** — B.Sc. in GIS and remote sensing. PostGIS spatial database design, satellite image analysis, ArcGIS Pro, QGIS, ERDAS IMAGINE, GPS field survey.
 
-**Currently:** building client applications at Fusion IT Consultancy PLC, and studying cloud security and DevSecOps at IBT College.
+**Currently:** building client applications at Fusion IT Consultancy PLC, and studying cloud security, DevSecOps, and CI/CD at IBT College.
 
 ---
 
 ## Live in production
 
-These are shipped, running, and serving real users. Click any of them.
+Shipped, running, serving real users. Click any of them.
 
 ### 🏥 [Kidus Petros Specialized Hospital](https://kpsh.gov.et/)
 `Next.js` · `React` · `Node / Express` · `PostgreSQL` · `Tailwind`
 
-Public hospital website on an official `.gov.et` domain. Department directories, service information, and a secured admin backend for content and patient inquiries. Built responsive-first for a userbase that is overwhelmingly mobile, with performance tuned for low-bandwidth connections.
+Public hospital platform on an official `.gov.et` domain. Department directories, service information, and a secured admin backend for content and patient inquiries. Built responsive-first for a userbase that is overwhelmingly mobile, with performance tuned for low-bandwidth connections.
 
 ### 🏠 [NileNet Properties](https://www.nilenet.net/)
 `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Tailwind`
 
-Real estate marketplace connecting Ethiopian families and diaspora investors with verified property listings — search, filtering, and listing management, built for a market where most inventory still lives in Telegram groups and phone calls.
+Real estate marketplace connecting property owners, brokers, buyers, and diaspora investors — search, filtering, and listing management, built for a market where most inventory still lives in Telegram groups and phone calls.
 
-→ Architecture patterns from this work are open-sourced in **[Mini Multi-Tenant Property Listing Platform](https://github.com/Abuabdellahh/Mini-Multi-Tenant-Property-Listing-Platform)**, a TypeScript reference implementation of the multi-tenant listing model.
+→ The architecture behind it is open-sourced as **[Mini Multi-Tenant Property Listing Platform](https://github.com/Abuabdellahh/Mini-Multi-Tenant-Property-Listing-Platform)** — tenant isolation and scoped queries in TypeScript.
 
 ### 🕌 [ASalahuddin Masjid — ሰላሀዲን መስጂድ](https://salahuddinmosque.com/)
-`Laravel` · `Blade` · `Alpine.js` · `MySQL`
+`Laravel` · `PHP` · `Blade` · `MySQL` · `REST`
 
-Community platform for a mosque — announcements, prayer times, and member services. Full Laravel back end, API-tested end to end, deployed and maintained in production.
+Community platform for mosque administration — announcements, prayer times, member services, and information management. Full Laravel back end, API-tested end to end, deployed and maintained in production.
+
+→ Back-end source: **[salahuddin-masjid-api](https://github.com/Abuabdellahh/salahuddin-masjid-api)**
 
 ### 🚗 [Abe Garage](https://abegarage-heyru.netlify.app/)
 `React` · `Node.js` · `MySQL`
 
-Auto-service management system — work orders, customer records, and vehicle service history, with role-based access for admins, managers, and mechanics.
+Automotive service management system — customers, vehicles, maintenance history, and work orders, with role-based access for admins, managers, and mechanics.
 
 ---
 
-## Open-source & data work
+## Data & machine learning
 
 | Repository | Stack | What it is |
 |---|---|---|
-| 🏢 [**Mini Multi-Tenant Property Listing Platform**](https://github.com/Abuabdellahh/Mini-Multi-Tenant-Property-Listing-Platform) | TypeScript | Multi-tenant architecture for property listings — tenant isolation, scoped queries, shared schema. The pattern behind NileNet, extracted and documented. |
 | 📈 [**Time-Series Forecasting for Portfolio Optimization**](https://github.com/Abuabdellahh/b5w11-ts-forecasting-portfolio-opt-final) | Python · ARIMA · Prophet · LSTM | Forecasting models benchmarked head to head, then fed into portfolio-allocation decisions — including the part most tutorials skip: what forecast error means for the allocation. |
 | 📉 [**Change-Point Analysis on Time Series**](https://github.com/Abuabdellahh/change-point-analysis-time-series-final) | Python · Bayesian methods | Detecting structural breaks in time-series data and quantifying confidence in where the regime actually changed. |
 | 💳 [**Finance Capstone**](https://github.com/Abuabdellahh/Finance-Capstone) | Python · Pandas · Scikit-learn | End-to-end financial analytics pipeline — feature engineering, model comparison, and evaluation on real lending and transaction data. |
@@ -78,16 +76,19 @@ Auto-service management system — work orders, customer records, and vehicle se
 | 📚 [**AI Library**](https://github.com/Abuabdellahh/AI-Library) | — | Curated reference collection for applied AI and ML work. |
 
 <details>
-<summary><b>Mobile & other public repos</b></summary>
+<summary><b>Mobile & earlier projects</b></summary>
 
 <br/>
 
-| Repository | Stack | What it is |
+| Project | Stack | What it is |
 |---|---|---|
-| [**Flutter Chat App**](https://github.com/Abuabdellahh/Flutter_Chat_App_2024) | Dart · Flutter · Firebase | Real-time messaging app with authentication and image upload. |
-| [**Flutter Shopping List**](https://github.com/Abuabdellahh/Flutter_shopping_list_app_2024) | Dart · Flutter | Shopping list app with persistent storage and category management. |
-| [**Flutter Favourite Places**](https://github.com/Abuabdellahh/Flutter_Favorite-_Placest_app_2024) | Dart · Flutter · Location APIs | Location-tagged places app with device camera and map integration. |
+| [**Flutter Chat App**](https://github.com/Abuabdellahh/Flutter_Chat_App_2024) | Dart · Flutter · Firebase | Real-time messaging with authentication and image upload. |
+| [**Flutter Shopping List**](https://github.com/Abuabdellahh/Flutter_shopping_list_app_2024) | Dart · Flutter | Persistent storage and category management. |
+| [**Flutter Favourite Places**](https://github.com/Abuabdellahh/Flutter_Favorite-_Placest_app_2024) | Dart · Flutter | Location-tagged places with camera and map integration. |
 | [**Islamic Affairs Platform**](https://github.com/Abuabdellahh/islamic_affair_test_project) | TypeScript | Web platform prototype for a community organisation. |
+| [**Evangadi Forum**](https://evangadiforum-project.netlify.app/login) | React · Node · MySQL | Q&A community platform with authentication and secure APIs. *(2024)* |
+
+*Also from 2024, while learning: Amazon, Netflix, and Apple interface clones, and a Socket.IO / PeerJS video-conferencing build.*
 
 </details>
 
@@ -131,7 +132,7 @@ Ran the school's computer lab end to end: hardware setup and maintenance, teache
 | Institution | Program | Period |
 |---|---|---|
 | **IBT College** | Full-Stack Development, QA & Testing, DevOps & CI/CD, Cloud, Agile | Jul – Dec 2026 *(in progress)* |
-| **10 Academy** *(Kifiya × Mastercard)* | AI Mastery — Data Science, ML, Data Engineering, GenAI, MLOps | 2025 |
+| **10 Academy** *(Kifiya × Mastercard Foundation)* | AI Mastery — Data Science, ML, Data Engineering, GenAI, MLOps | 2025 |
 | **Mizan Institute of Technology** | Full-Stack Software Engineering (MERN) | 2024 – 2025 |
 | **Evangadi Academy** | Full-Stack Web Development (MERN) | 2024 |
 | **Wollega University** | B.Sc. Geographic Information Systems & Remote Sensing | 2019 |
@@ -150,11 +151,11 @@ Also certified in **AI Fundamentals** (Udacity), **React Front-End** (Upwork), *
 
 ---
 
-## Languages
+## Languages & community
 
 Amharic *(native)* &nbsp;·&nbsp; English *(professional)* &nbsp;·&nbsp; Arabic *(professional)*
 
-Community: [@addisababamajlis](https://github.com/addisababamajlis) &nbsp;·&nbsp; [@addisguard](https://github.com/addisguard)
+[@addisababamajlis](https://github.com/addisababamajlis) &nbsp;·&nbsp; [@addisguard](https://github.com/addisguard)
 
 ---
 
@@ -162,8 +163,6 @@ Community: [@addisababamajlis](https://github.com/addisababamajlis) &nbsp;·&nbs
   <img alt="Followers" src="https://img.shields.io/github/followers/Abuabdellahh?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=0A66C2" />
   <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbuabdellahh&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A&color=0A66C2" />
 </p>
-
----
 
 <p align="center">
   <a href="https://eibrahim.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
