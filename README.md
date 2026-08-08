@@ -1,12 +1,12 @@
 <h1 align="center">Eibrahim Belayneh Adem</h1>
 
 <p align="center">
-  <b>Geospatial ML Engineer</b> — I build spatial and predictive models, then ship them as production software.
+  <b>Full-Stack Engineer</b> · GIS &amp; Remote Sensing background · Applied ML
 </p>
 
 <p align="center">
-  GIS &amp; remote sensing background, full-stack engineering practice.<br/>
-  The model doesn't stop at the notebook — it ends up behind an API, in an app, in someone's hands.
+  I ship production web applications for real users in Ethiopia —<br/>
+  a government hospital, a property marketplace, a community platform.
 </p>
 
 <p align="center">
@@ -23,67 +23,71 @@
 
 ---
 
-## What I actually do
+## What I do
 
-Most people working with spatial data stop at the analysis. Most people who ship web applications have never touched a raster. I sit in the overlap, which is a narrower place than it sounds.
+I build web applications end to end — interface, API, database, deployment — and I do it for clients whose users are real and mostly on mobile. Three of the things I've built are live and public right now, linked below.
 
-- **Geospatial & remote sensing** — satellite image processing, spatial modeling, PostGIS, ArcGIS Pro, QGIS, field survey
-- **Applied ML** — predictive modeling, time-series forecasting, fraud and credit-risk analytics, NLP
-- **Production engineering** — Next.js / React front ends, Node and FastAPI services, PostgreSQL, deployed on AWS with Docker and CI/CD
+Alongside that: a B.Sc. in GIS and remote sensing, and applied ML work in time-series forecasting and financial analytics.
 
-**Currently:** building client applications at Fusion IT Consultancy PLC, going deeper on cloud security and DevSecOps, and open to geospatial, ML, and full-stack roles.
+- **Web** — Next.js / React front ends, Node / Express and Laravel APIs, PostgreSQL and MySQL
+- **Data & ML** — time-series forecasting, change-point analysis, financial modeling in Python
+- **Spatial** — PostGIS, ArcGIS Pro, QGIS, remote sensing, GPS field survey
+- **Delivery** — AWS, Docker, GitHub Actions, CI/CD
+
+**Currently:** building client applications at Fusion IT Consultancy PLC, and studying cloud security and DevSecOps at IBT College.
 
 ---
 
-## Selected work
+## Live in production
 
-### 🛰️ ‹Geospatial project title›
-[Repo](https://github.com/Abuabdellahh/REPLACE-geospatial-repo) · [Live](https://REPLACE-live-url)
+These are shipped, running, and serving real users. Click any of them.
 
-`Python` · `Rasterio / GDAL` · `PostGIS` · `QGIS`
+### 🏥 [Kidus Petros Specialized Hospital](https://kpsh.gov.et/)
+`Next.js` · `React` · `Node / Express` · `PostgreSQL` · `Tailwind`
 
-‹One or two sentences: what spatial question it answers, what data it runs on, who would use it. This is the project that proves the headline — if it doesn't exist yet, build it before anything else on this page gets touched.›
+Public hospital website on an official `.gov.et` domain. Department directories, service information, and a secured admin backend for content and patient inquiries. Built responsive-first for a userbase that is overwhelmingly mobile, with performance tuned for low-bandwidth connections.
 
-**‹Result: area covered, classification accuracy, or processing time›**
-
-### 🏠 NileNet Properties Platform
-[Repo](https://github.com/Abuabdellahh/REPLACE-nilenet-repo) · [Live](https://REPLACE-live-url)
-
-`Next.js` · `React` · `Node.js` · `PostgreSQL` · `Tailwind`
+### 🏠 [NileNet Properties](https://www.nilenet.net/)
+`Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Tailwind`
 
 Real estate marketplace connecting Ethiopian families and diaspora investors with verified property listings — search, filtering, and listing management, built for a market where most inventory still lives in Telegram groups and phone calls.
 
-**‹Result: listings live, monthly users, or launch status›**
+→ Architecture patterns from this work are open-sourced in **[Mini Multi-Tenant Property Listing Platform](https://github.com/Abuabdellahh/Mini-Multi-Tenant-Property-Listing-Platform)**, a TypeScript reference implementation of the multi-tenant listing model.
 
-### 📈 Fraud Detection & Credit-Risk Scoring
-[Repo](https://github.com/Abuabdellahh/REPLACE-fraud-repo) · [Notebook](https://REPLACE-notebook-url)
+### 🕌 [ASalahuddin Masjid — ሰላሀዲን መስጂድ](https://salahuddinmosque.com/)
+`Laravel` · `Blade` · `Alpine.js` · `MySQL`
 
-`Python` · `Scikit-learn` · `Pandas` · `FastAPI`
+Community platform for a mosque — announcements, prayer times, and member services. Full Laravel back end, API-tested end to end, deployed and maintained in production.
 
-End-to-end pipeline on real transaction and lending data — feature engineering, class-imbalance handling, model comparison, and evaluation tuned for the precision/recall tradeoff that matters in fraud, where a false negative and a false positive cost very different amounts. Served behind a FastAPI endpoint.
+### 🚗 [Abe Garage](https://abegarage-heyru.netlify.app/)
+`React` · `Node.js` · `MySQL`
 
-**‹Result: e.g. 0.94 ROC-AUC · 87% recall at 5% false-positive rate›**
+Auto-service management system — work orders, customer records, and vehicle service history, with role-based access for admins, managers, and mechanics.
 
-### 🔮 Time-Series Forecasting for Portfolio Optimization
-[Repo](https://github.com/Abuabdellahh/REPLACE-forecasting-repo)
+---
 
-`Python` · `ARIMA` · `Prophet` · `Neural networks`
+## Open-source & data work
 
-Forecasting models benchmarked head to head, then fed into portfolio-allocation decisions — including the part most tutorials skip: what the forecast error means for the allocation.
-
-**‹Result: best model, MAPE or RMSE against baseline›**
+| Repository | Stack | What it is |
+|---|---|---|
+| 🏢 [**Mini Multi-Tenant Property Listing Platform**](https://github.com/Abuabdellahh/Mini-Multi-Tenant-Property-Listing-Platform) | TypeScript | Multi-tenant architecture for property listings — tenant isolation, scoped queries, shared schema. The pattern behind NileNet, extracted and documented. |
+| 📈 [**Time-Series Forecasting for Portfolio Optimization**](https://github.com/Abuabdellahh/b5w11-ts-forecasting-portfolio-opt-final) | Python · ARIMA · Prophet · LSTM | Forecasting models benchmarked head to head, then fed into portfolio-allocation decisions — including the part most tutorials skip: what forecast error means for the allocation. |
+| 📉 [**Change-Point Analysis on Time Series**](https://github.com/Abuabdellahh/change-point-analysis-time-series-final) | Python · Bayesian methods | Detecting structural breaks in time-series data and quantifying confidence in where the regime actually changed. |
+| 💳 [**Finance Capstone**](https://github.com/Abuabdellahh/Finance-Capstone) | Python · Pandas · Scikit-learn | End-to-end financial analytics pipeline — feature engineering, model comparison, and evaluation on real lending and transaction data. |
+| 🧠 [**Smart Knowledge Ethiopia**](https://github.com/Abuabdellahh/SmartKnowledgeEthiopia) | TypeScript | Knowledge-sharing platform built for an Ethiopian audience. |
+| 📚 [**AI Library**](https://github.com/Abuabdellahh/AI-Library) | — | Curated reference collection for applied AI and ML work. |
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>Mobile & other public repos</b></summary>
 
 <br/>
 
-| Project | Stack | What it is |
+| Repository | Stack | What it is |
 |---|---|---|
-| 🏥 [**Kidus Petros Hospital Platform**](https://github.com/Abuabdellahh/REPLACE-hospital-repo) | Next.js · Express · PostgreSQL | Patient-engagement platform — department directories, service information, secured admin backend for content and inquiries. Mobile-first, because the userbase is. |
-| 🕌 [**ASalahuddin Masjid — ሰላሀዲን መስጂድ**](https://github.com/Abuabdellahh/REPLACE-masjid-repo) | Laravel · Alpine.js | Community platform for a mosque — announcements, prayer times, member services. Deployed and API-tested end to end. |
-| 📰 [**News Sentiment & Complaint Classification**](https://github.com/Abuabdellahh/REPLACE-nlp-repo) | Python · NLP · Pandas | Financial-news sentiment scoring and automated customer-complaint routing. |
-| 🚗 [**Abe Garage**](https://github.com/Abuabdellahh/REPLACE-garage-repo) | React · MySQL | Auto-service management — work orders, customers, vehicle history. |
+| [**Flutter Chat App**](https://github.com/Abuabdellahh/Flutter_Chat_App_2024) | Dart · Flutter · Firebase | Real-time messaging app with authentication and image upload. |
+| [**Flutter Shopping List**](https://github.com/Abuabdellahh/Flutter_shopping_list_app_2024) | Dart · Flutter | Shopping list app with persistent storage and category management. |
+| [**Flutter Favourite Places**](https://github.com/Abuabdellahh/Flutter_Favorite-_Placest_app_2024) | Dart · Flutter · Location APIs | Location-tagged places app with device camera and map integration. |
+| [**Islamic Affairs Platform**](https://github.com/Abuabdellahh/islamic_affair_test_project) | TypeScript | Web platform prototype for a community organisation. |
 
 </details>
 
@@ -91,19 +95,21 @@ Forecasting models benchmarked head to head, then fed into portfolio-allocation 
 
 ## Tech stack
 
-**Core**&nbsp;&nbsp;TypeScript · Python · SQL
+**Core**&nbsp;&nbsp;TypeScript · JavaScript · Python · SQL
 
-**Geospatial**&nbsp;&nbsp;PostGIS · ArcGIS Pro · QGIS · ERDAS IMAGINE · remote sensing · spatial analysis · GPS field survey
+**Frontend**&nbsp;&nbsp;React · Next.js · Tailwind CSS · Redux Toolkit
+
+**Backend**&nbsp;&nbsp;Node / Express · NestJS · Laravel · FastAPI · REST · GraphQL · JWT
 
 **Data & ML**&nbsp;&nbsp;Pandas · NumPy · Scikit-learn · ARIMA / Prophet · NLP · Matplotlib / Seaborn
 
-**Web**&nbsp;&nbsp;React · Next.js · Tailwind · Node / Express · NestJS · FastAPI · REST · GraphQL
+**Geospatial**&nbsp;&nbsp;PostGIS · ArcGIS Pro · QGIS · ERDAS IMAGINE · remote sensing · spatial analysis · GPS field survey
 
-**Data stores**&nbsp;&nbsp;PostgreSQL · PostGIS · MongoDB · MySQL
+**Databases**&nbsp;&nbsp;PostgreSQL · PostGIS · MySQL · MongoDB
 
 **Cloud & DevOps**&nbsp;&nbsp;AWS · Docker · Kubernetes · GitHub Actions · CI/CD · DevSecOps
 
-<sub>Also worked with: Java · Kotlin · Go · PHP · Laravel · Spring Boot · Flutter · React Native · Neo4j</sub>
+<sub>Also worked with: Go · Java · Kotlin · PHP · Flutter · React Native · Spring Boot · Prisma · Neo4j</sub>
 
 ---
 
@@ -148,9 +154,9 @@ Also certified in **AI Fundamentals** (Udacity), **React Front-End** (Upwork), *
 
 Amharic *(native)* &nbsp;·&nbsp; English *(professional)* &nbsp;·&nbsp; Arabic *(professional)*
 
----
+Community: [@addisababamajlis](https://github.com/addisababamajlis) &nbsp;·&nbsp; [@addisguard](https://github.com/addisguard)
 
-<h3 align="center">GitHub</h3>
+---
 
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/Abuabdellahh?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=0A66C2" />
@@ -165,4 +171,4 @@ Amharic *(native)* &nbsp;·&nbsp; English *(professional)* &nbsp;·&nbsp; Arabic
   <a href="mailto:Abuabdellah1099@gmail.com"><b>Email</b></a>
 </p>
 
-<p align="center"><i>Open to geospatial, ML, and full-stack roles — full-time or contract. Usually reply within a day.</i></p>
+<p align="center"><i>Open to full-stack, data, and geospatial roles — full-time or contract. Usually reply within a day.</i></p>
