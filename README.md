@@ -96,6 +96,10 @@ Automotive service management system — customers, vehicles, maintenance histor
 
 ## Tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,tailwind,nodejs,laravel,postgres,docker,aws" alt="Core stack: TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, Laravel, PostgreSQL, Docker, AWS" />
+</p>
+
 **Core**&nbsp;&nbsp;TypeScript · JavaScript · Python · SQL
 
 **Frontend**&nbsp;&nbsp;React · Next.js · Tailwind CSS · Redux Toolkit
