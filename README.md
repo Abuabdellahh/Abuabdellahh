@@ -97,7 +97,7 @@ Automotive service management system — customers, vehicles, maintenance histor
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,go,php,react,nextjs,tailwind,redux,nodejs,express,nestjs,laravel,spring,dotnet,fastapi,graphql,sklearn,postgres,mysql,mongodb,prisma,aws,docker,kubernetes,githubactions&perline=14" alt="TypeScript, JavaScript, Python, Java, C#, Go, PHP, React, Next.js, Tailwind CSS, Redux, Node.js, Express, NestJS, Laravel, Spring Boot, .NET, FastAPI, GraphQL, scikit-learn, PostgreSQL, MySQL, MongoDB, Prisma, AWS, Docker, Kubernetes, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,tailwind,nodejs,nestjs,laravel,spring,dotnet,sklearn,postgres,aws,docker,kubernetes&perline=15" alt="TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, NestJS, Laravel, Spring Boot, .NET, scikit-learn, PostgreSQL, AWS, Docker, Kubernetes" />
 </p>
 
 **Core**&nbsp;&nbsp;TypeScript · JavaScript · Python · SQL
